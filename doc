@@ -1,0 +1,20 @@
+
+Documentation:
+
+First, we call the quicksort function with the input array.
+Inside the quicksort function, we call the partition function.
+In the partition function, we use the last element as the pivot element for the array.
+Once the pivot is decided, the array is partitioned into two parts and then the quicksort function is called to independently sort both the sub arrays.
+
+When the quicksort function returns, the array is sorted such that the pivot element is at its correct location and the elements lesser than the pivot is at the left of the pivot and the elements greater than the pivot is at the right of the pivot.
+
+Sample Input:
+
+
+1       30       8       14       54       76       91       24
+
+
+Output after sorting:
+
+
+1       8       14       24       30       54       76       91      
