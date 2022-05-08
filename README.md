@@ -1,7 +1,7 @@
 # geeksforgeeks-mandatorytask
-GeeksforGeeks SRMIST Technical Domain Task Round
+GeeksforGeeks SRMIST Technical Domain Task Round ..
 
-Check my web dev repo:
+Check my NGO web dev repo:
 https://github.com/JaiRajGunnu/desire2service
 
 Live Web:
